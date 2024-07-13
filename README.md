@@ -1,4 +1,7 @@
-## Hi there 👋
+## Ola meu nome é Gabriel👋
+
+💻 - Estou fazendo Ciencias da Computação na UFSJ
+🫡 - Programo em C, Java e Python
 
 <!--
 **Gabriel-Souza18/Gabriel-Souza18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
