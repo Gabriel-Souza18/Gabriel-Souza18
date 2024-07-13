@@ -1,6 +1,6 @@
 ## Ola meu nome é Gabriel👋
 
-💻 - Estou fazendo Ciencias da Computação na UFSJ
+💻 - Estou fazendo Ciencias da Computação na UFSJ  <br>
 🫡 - Programo em C, Java e Python
 
 <!--
