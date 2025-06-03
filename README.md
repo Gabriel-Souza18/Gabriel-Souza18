@@ -1,19 +1,20 @@
-## Ola meu nome é Gabriel👋
 
-💻 - Estou fazendo Ciencias da Computação na UFSJ  <br>
-🫡 - Programo em C, Java e Python
+## Olá, meu nome é Gabriel Souza!
+Estudo Ciências da Computação na Universidade Federal de São João del Rei
+![Logo da UFSJ](https://ufsj.edu.br/portal2-repositorio/Image/ascom/noticias/logo_ufsj.jpg)
+[![Email](https://img.shields.io/badge/Email-gabrielsisou@gmail.com-red?style=flat&logo=gmail)](mailto:gabrielsisou@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrielSouza-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-souza-563701347/)
 
-<!--
-**Gabriel-Souza18/Gabriel-Souza18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Souza18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gabriel-Souza18&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
