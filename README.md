@@ -34,4 +34,4 @@ Atualmente estudando sobre desenvolvimento Android, utilizando Kotlin e Java.
 ### ⚙️ Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Souza18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gabriel-Souza18&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+
