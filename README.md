@@ -1,4 +1,4 @@
-# Gabriel Souza 👋
+# Gabriel da Silva Souza 👋
 
 <div align="center">
   
