@@ -1,37 +1,79 @@
-## Olá, meu nome é Gabriel Souza!
+# Gabriel Souza 👋
 
-Estudo Ciências da Computação na Universidade Federal de São João del Rei <br>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_ufsj.gif" height="64"> <br>
-Atualmente estudando sobre desenvolvimento Android, utilizando Kotlin e Java.
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-gabrielsisou@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:gabrielsisou@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrielSouza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-souza-563701347/)
+[![GitHub](https://img.shields.io/badge/GitHub-Gabriel--Souza18-black?style=for-the-badge&logo=github)](https://github.com/Gabriel-Souza18)
 
-[![Email](https://img.shields.io/badge/Email-gabrielsisou@gmail.com-red?style=flat&logo=gmail)](mailto:gabrielsisou@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrielSouza-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-souza-563701347/)
+</div>
 
----
+## 👨‍🎓 Sobre Mim
 
-### 🚀 Skills
+Estudante de **Ciências da Computação** na **Universidade Federal de São João del-Rei**  
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_ufsj.gif" height="64">
 
-<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+Atualmente focado em:
+- Desenvolvimento Android com Kotlin e Java
+- Desenvolvimento de APIs com Spring Boot
+- Banco de dados relacionais e não-relacionais
 
 ---
 
-### 🔭 Projeto Atual
+## 🛠️ Tecnologias
 
-<a href="https://github.com/Gabriel-Souza18/FarofaCida" target="_blank">
-  <img src="https://github.com/Gabriel-Souza18/FarofaCida/blob/main/LogoFarofa.jpeg?raw=true" alt="Logo Farofa" height="64" style="vertical-align: middle;"/>
-  <span style="font-size: 18px; vertical-align: middle;">APP Venda de Farofas</span>
-</a>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+</div>
 
 ---
 
-### ⚙️ Stats
+## 🚀 Projetos em Destaque
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Souza18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
+### 📱 APP Venda de Farofas
+[![Repositório](https://img.shields.io/badge/GitHub-Repositório-black?style=for-the-flat&logo=github)](https://github.com/Gabriel-Souza18/FarofaCida)
+
+<div align="center">
+  <a href="https://github.com/Gabriel-Souza18/FarofaCida" target="_blank">
+    <img src="https://github.com/Gabriel-Souza18/FarofaCida/blob/main/LogoFarofa.jpeg?raw=true" alt="Logo Farofa" width="200" style="border-radius: 10px; margin: 10px;">
+  </a>
+</div>
+
+Aplicativo mobile para venda de farofas artesanais, desenvolvido para controlar fluxos de vendas.
+
+**Tecnologias:** `Java` `Android` `Kotlin`
+
+---
+
+### 🐕 CãoDex
+[![Repositório](https://img.shields.io/badge/GitHub-Repositório-black?style=for-the-flat&logo=github)](https://github.com/BraianMelo/Caodex-Trabalho_Engenharia_de_Software)
+
+<div align="center">
+  <a href="https://github.com/BraianMelo/Caodex-Trabalho_Engenharia_de_Software" target="_blank">
+    <img src="https://github.com/BraianMelo/Caodex-Trabalho_Engenharia_de_Software/raw/main/Images/WhatsApp%20Image%202025-09-04%20at%2021.12.29.jpeg" alt="Logo CãoDex" width="200" style="border-radius: 10px; margin: 10px;">
+  </a>
+</div>
+
+Nosso projeto é uma plataforma colaborativa e gamificada, inspirada no universo Pokémon, com o objetivo de criar um catálogo digital de todos os cães são-joanenses. 
+
+**Tecnologias:** `Java` `SpringBoot` `API REST` `React` `JavaScript`
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Souza18&show_icons=true&theme=dark&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Souza18&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
