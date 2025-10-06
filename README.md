@@ -14,6 +14,7 @@ Estudante de **Ciências da Computação** na **Universidade Federal de São Jo�
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_ufsj.gif" height="64">
 
 Atualmente focado em:
+- Criptografia Pós-Quantica
 - Desenvolvimento Android com Kotlin e Java
 - Desenvolvimento de APIs com Spring Boot
 - Banco de dados relacionais e não-relacionais
