@@ -8,7 +8,7 @@
 
 </div>
 
-## 👨‍🎓 Sobre Mim
+## Sobre Mim
 
 Estudante de **Ciências da Computação** na **Universidade Federal de São João del-Rei**  
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_ufsj.gif" height="64">
@@ -21,7 +21,7 @@ Atualmente focado em:
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -37,9 +37,9 @@ Atualmente focado em:
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 📱 APP Venda de Farofas
+###  APP Venda de Farofas
 [![Repositório](https://img.shields.io/badge/GitHub-Repositório-black?style=for-the-flat&logo=github)](https://github.com/Gabriel-Souza18/FarofaCida)
 
 <div align="center">
@@ -52,24 +52,10 @@ Aplicativo mobile para venda de farofas artesanais, desenvolvido para controlar 
 
 **Tecnologias:** `Java` `Android` `Kotlin`
 
----
-
-### 🐕 CãoDex
-[![Repositório](https://img.shields.io/badge/GitHub-Repositório-black?style=for-the-flat&logo=github)](https://github.com/BraianMelo/Caodex-Trabalho_Engenharia_de_Software)
-
-<div align="center">
-  <a href="https://github.com/BraianMelo/Caodex-Trabalho_Engenharia_de_Software" target="_blank">
-    <img src="https://github.com/BraianMelo/Caodex-Trabalho_Engenharia_de_Software/raw/main/Images/WhatsApp%20Image%202025-09-04%20at%2021.12.29.jpeg" alt="Logo CãoDex" width="200" style="border-radius: 10px; margin: 10px;">
-  </a>
-</div>
-
-Nosso projeto é uma plataforma colaborativa e gamificada, inspirada no universo Pokémon, com o objetivo de criar um catálogo digital de todos os cães são-joanenses. 
-
-**Tecnologias:** `Java` `SpringBoot` `API REST` `React` `JavaScript`
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   
